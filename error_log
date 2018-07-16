@@ -1,0 +1,6 @@
+[24-Dec-2017 19:42:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/rainbow2016/public_html/application/views/home.php on line 12
+[27-Dec-2017 13:16:28 UTC] PHP Parse error:  syntax error, unexpected 'quest_service_ncr' (T_STRING), expecting variable (T_VARIABLE) in /home/rainbow2016/public_html/application/controllers/Home.php on line 765
+[27-Dec-2017 13:16:28 UTC] PHP Parse error:  syntax error, unexpected 'quest_service_ncr' (T_STRING), expecting variable (T_VARIABLE) in /home/rainbow2016/public_html/application/controllers/Home.php on line 765
+[27-Dec-2017 13:18:40 UTC] PHP Parse error:  syntax error, unexpected 'quest_service_gurgaon' (T_STRING), expecting variable (T_VARIABLE) in /home/rainbow2016/public_html/application/controllers/Home.php on line 765
+[27-Dec-2017 13:19:14 UTC] PHP Parse error:  syntax error, unexpected 'quest_service_gurgaon' (T_STRING), expecting variable (T_VARIABLE) in /home/rainbow2016/public_html/application/controllers/Home.php on line 765
+[27-Dec-2017 13:19:14 UTC] PHP Parse error:  syntax error, unexpected 'quest_service_gurgaon' (T_STRING), expecting variable (T_VARIABLE) in /home/rainbow2016/public_html/application/controllers/Home.php on line 765
